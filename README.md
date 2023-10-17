@@ -1,7 +1,5 @@
 # 💫 About Me:
-
-<h4><br>🔥 Passionate developer experienced in MERN Stack and proficient in C++.<br>🚀 Always eager to learn and create innovative solutions. <br>💡 Open-source enthusiast and code wrangler. <br>🤝 Let's collaborate and build amazing things together!<br>🌟 #MERNStack #C++ #OpenSource
-</h4>
+🔥 Passionate developer experienced in MERN Stack and proficient in C++.<br>🚀 Always eager to learn and create innovative solutions. <br>💡 Open-source enthusiast and code wrangler. <br>🤝 Let's collaborate and build amazing things together!<br>🌟 #MERNStack #C++ #OpenSource
 
 # 💫 Achivements:
 
