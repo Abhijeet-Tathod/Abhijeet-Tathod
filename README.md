@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔥 Passionate developer experienced in MERN Stack and proficient in C++.<br>🚀 Always eager to learn and create innovative solutions. <br>💡 Open-source enthusiast and code wrangler. <br>🤝 Let's collaborate and build amazing things together!<br>🌟 #MERNStack #C++ #OpenSource
 
-# 💫 Achievements:
+# 🏆 Achievements:
 
 [![An image of @abhijeettathod's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeettathod)](https://holopin.io/@abhijeettathod)
 
